@@ -1,6 +1,6 @@
 # Social-Media-PAP
 
-Social Media 
+
 
 How can you run the website? 
 
@@ -11,8 +11,10 @@ Download and install an app called xampp and run the following services(on the x
 After that move the folder where the website is located (pap folder) to the C:\xampp\htdocs folder.
 
 Finally, run localhost/pap/login.php on you webrowser. 
+----------------------------------------------------------
+Social Media 
 
-Functionalities:
+Website Features:
 
   - Send / Receive messages,
   - Create text posts,
