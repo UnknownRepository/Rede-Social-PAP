@@ -6,7 +6,7 @@ Faça Download e instale a aplicação chamada xampp e execute os seguintes serv
 
 Depois disso, mova a pasta onde o site está localizado (pasta pap) para a pasta C:\\xampp\\htdocs.
 
-Finalmente, execute localhost/pap/login.php no broswer.
+Finalmente, execute localhost/SocialMedia/login.php no broswer.
 
 
 
