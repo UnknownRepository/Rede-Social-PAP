@@ -1,6 +1,3 @@
-# Rede-Social-PAP
-Projeto realizado para Prova de Aptidão Profissional.
-
 Como executar o website? 
 ------------------------
 Explicarei o procedimento que usei.
