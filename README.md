@@ -7,7 +7,7 @@ Download and install an app called xampp and run the following services(on the x
 
 After that move the folder where the website is located (pap folder) to the C:\xampp\htdocs folder.
 
-Finally, run localhost/pap/login.php on you webrowser. 
+Finally, run localhost/SocialMedia/login.php on you webrowser. 
 
  
 
