@@ -2,6 +2,12 @@
 
 Social Media 
 
+How can you run the website? 
+I'm going to say the way I did. 
+Download and install an app called xampp and run the following services(on the xampp controler): apache and SQL 
+After that move the folder where the website is located (pap folder) to the C:\xampp\htdocs folder.
+Finally, run localhost/pap/login.php on you webrowser. 
+
 Functionalities:
 
   - Send / Receive messages,
