@@ -1,9 +1,20 @@
 # Rede-Social-PAP
 Projeto realizado para Prova de Aptidão Profissional.
 
-Rede Social 
+Como executar o website? 
+------------------------
+Explicarei o procedimento que usei.
 
-Funcionalidades: 
+Faça Download e instale a aplicação chamada xampp e execute os seguintes serviços (no xampp controler): apache e SQL
+
+Depois disso, mova a pasta onde o site está localizado (pasta pap) para a pasta C:\\xampp\\htdocs.
+
+Finalmente, execute localhost/pap/login.php no broswer.
+
+
+
+Funcionalidades do Site
+-------------------------
   - Mandar/Receber mensagens,
   - Criar publicações de texto,
   - Criar publicações com Imagens,
