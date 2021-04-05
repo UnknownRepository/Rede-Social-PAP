@@ -1,6 +1,3 @@
-# Social-Media-PAP
-
-
 
 How can you run the website? 
 ----------------------------------------------------------
