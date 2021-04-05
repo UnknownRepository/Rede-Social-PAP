@@ -3,7 +3,7 @@
 
 
 How can you run the website? 
-
+----------------------------------------------------------
 I'm going to say the way I did. 
 
 Download and install an app called xampp and run the following services(on the xampp controler): apache and SQL 
@@ -11,10 +11,11 @@ Download and install an app called xampp and run the following services(on the x
 After that move the folder where the website is located (pap folder) to the C:\xampp\htdocs folder.
 
 Finally, run localhost/pap/login.php on you webrowser. 
-----------------------------------------------------------
-Social Media 
 
-Website Features:
+ 
+
+Website Features
+-------------------
 
   - Send / Receive messages,
   - Create text posts,
