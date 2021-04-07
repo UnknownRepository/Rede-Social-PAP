@@ -4,7 +4,7 @@ Explicarei o procedimento que usei.
 
 Faça Download e instale a aplicação chamada xampp e execute os seguintes serviços (no xampp controler): apache e SQL
 
-Depois disso, mova a pasta onde o site está localizado (pasta pap) para a pasta C:\\xampp\\htdocs.
+Depois disso, mova a pasta onde o site está localizado (pasta SocialMedia) para a pasta C:\\xampp\\htdocs.
 
 Finalmente, execute localhost/SocialMedia/login.php no broswer.
 
